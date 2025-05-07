@@ -1,0 +1,6 @@
+{
+    "enabled_patterns": ["AWS Access Key", "AWS Secret Key", "Google API Key", "Slack Token", "GitHub Token", "Stripe Secret Key", "OpenAI API Key", "JWT Token", "Generic Phrase"],
+    "max_depth": 3,
+    "enable_logging": false,
+    "log_file": "scan_results.log"
+  }
