@@ -43,4 +43,4 @@ The config file allows for the configuration of
 ```
 
 ## License
-See `LICENSE.md`
+See [LICENSE](LICENSE)
